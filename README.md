@@ -1,2 +1,3 @@
-# SSploit
-Open-source Roblox exploiter for Windows (Read the README)
+# __SSploit__
+Fun little project by Snowy
+---
